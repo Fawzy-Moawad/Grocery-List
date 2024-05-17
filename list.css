@@ -1,5 +1,5 @@
 body {
-  background-image: url('linedpaper/linedpaper.png');
+  background-color: #06040e;
   width: 600px;
   margin: 0 auto;
   padding: 0;
@@ -26,7 +26,7 @@ input[type="text"]{
 }
 
 h1 {
-  color: #4183D7;
+  color: #605668;
   font-size: 50px;
 }
 
